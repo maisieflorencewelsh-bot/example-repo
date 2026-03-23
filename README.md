@@ -1,7 +1,7 @@
-# **Project name: **
+# Project name: 
 Finance Calculator
 
-## **Description: **
+## Description: 
 Calculates simple or compound interest on a investment or a bond (monthly repayment on a mortgage) depending on user's choice. 
 It will initially describe the two initial choices (interest or bond) and then prompt the user to enter either 'investment' or 'bond' to choose either option. 
 If the user chooses interest it will prompt the user to enter the deposit amount, interest rate and length of the investment (in years) and to choose between simple or compound.
